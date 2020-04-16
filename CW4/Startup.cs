@@ -47,7 +47,7 @@ namespace CW4
             app.UseMiddleware<LoggingMiddleware>();
             app.Use(async (context, next) =>
             {
-                if (!context.Request.Headers.ContainsKey("s19434") || !IstDb.MidIfIndexExist(context.Request.Headers["s19434"].ToString()))
+                if (!context.Request.Headers.ContainsKey("IndexNumber") || !IstDb.MidIfIndexExist(context.Request.Headers["IndexNumber"].ToString()))
                 {
 
                     context.Response.StatusCode = StatusCodes.Status401Unauthorized;
