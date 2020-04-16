@@ -1,0 +1,70 @@
+Method: GET
+Path: /api/students
+Body:
+
+Query String: 
+Method: GET
+Path: /favicon.ico
+Body:
+
+Query String: 
+Method: GET
+Path: /api/students
+Body:
+
+Query_String: 
+Method: GET
+Path: /favicon.ico
+Body:
+
+Query_String: 
+Method: GET
+Path: /api/students
+Body:
+
+Query_String: 
+Method: GET
+Path: /favicon.ico
+Body:
+
+Query_String: 
+Method: GET
+Path: /api/students
+Body:
+
+Query_String: 
+Method: GET
+Path: /favicon.ico
+Body:
+
+Query_String: 
+Method: GET
+Path: /api/students
+Body:
+
+Query_String: 
+Method: GET
+Path: /favicon.ico
+Body:
+
+Query_String: 
+Method: GET
+Path: /api/students
+Body:
+
+Query_String: 
+Method: GET
+Path: /favicon.ico
+Body:
+
+Query_String: 
+Method: GET
+Path: /api/students
+Body:
+
+Query_String: 
+Method: GET
+Path: /favicon.ico
+Body:
+
+Query_String: 
